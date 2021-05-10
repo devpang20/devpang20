@@ -1,6 +1,6 @@
-<h3 align='center'>Hi there I'm sik2 👋</h3>
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=sik2&fontSize=70&animation=twinkling)
-<br>
+<h3 align='center'>Hi there I'm Sik2 👋</h3>
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Sik2&fontSize=70&animation=twinkling)
+
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=devpang20&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
