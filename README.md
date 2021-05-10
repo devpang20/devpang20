@@ -1,5 +1,4 @@
 <h3 align='center'>Hi there I'm sik2 👋</h3>
-<br>
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=sik2&fontSize=70&animation=twinkling)
 <br>
 <p align='center'>
