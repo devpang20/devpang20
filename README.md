@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Sik2&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=WELCOME Sik2'GitHub&fontSize=70&animation=twinkling)
 
 <h3 align='center'>Hi there I'm Sik2 👋</h3>
 
